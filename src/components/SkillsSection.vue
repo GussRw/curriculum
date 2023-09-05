@@ -58,8 +58,10 @@
 	</div>
 	<div class="mt-2">
 		<b>Other Technologies</b>
-		<p class="pl-3">NodeJS</p>
 		<p class="pl-3">Github Actions</p>
+		<p class="pl-3">NodeJS</p>
+		<p class="pl-3">Vite</p>
+		<p class="pl-3">ESLint</p>
 		<p class="pl-3">Datadog Cloud Monitoring</p>
 		<p class="pl-3">Windows Subsystem for Linux</p>
 	</div>
