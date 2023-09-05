@@ -10,6 +10,7 @@
     "lint": "eslint ./src --ext js,vue --max-warnings=0"
   },
   "dependencies": {
+    "print-js": "^1.6.0",
     "vue": "^3.3.4"
   },
   "devDependencies": {
