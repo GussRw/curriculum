@@ -5,7 +5,7 @@
 			<p class="text-gray-700">
 				I am a very disciplined, responsible, and honest person. I always search a new things to learn.
 				<br />
-				As for my career, I consider myself very good in the programming area.
+				As for my career, I consider myself highly proficient in the programming field.
 				<br />
 				I can adapt quickly to any technology, language, framework, or developer environment.
 				<br />
