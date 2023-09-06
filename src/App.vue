@@ -26,13 +26,13 @@
 					<div>
 						<personal-statement />
 						<work-experience class="mt-4" />
-						<education-section style="page-break-before : always" class="mt-4" />
 						<other-projects class="mt-10" />
+						<education-section class="mt-4" />
 					</div>
 				</div>
 			</div>
 			<div class="w-4/12 bg-gray-900 pt-5">
-				<div class="p-4 pt-5 text-white">
+				<div class="p-4 pt-5 text-white mb-16">
 					<contact-details />
 					<skills-section />
 					<languages-section />
@@ -52,3 +52,8 @@ import ContactDetails from "@/components/ContactDetails.vue";
 import LanguagesSection from "@/components/LanguagesSection.vue";
 import HobbiesSection from "@/components/HobbiesSection.vue";
 </script>
+<style>
+html {
+    font-size: 10px;
+}
+</style>

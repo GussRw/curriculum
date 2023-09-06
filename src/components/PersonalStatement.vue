@@ -3,7 +3,7 @@
 		<h2 class="text-2xl pb-2 font-bold text-gray-800">Personal Statement</h2>
 		<div class="pl-4">
 			<p class="text-gray-700">
-				I am a very disciplined, responsible, and honest person. I always search a new things to learn.
+				I am a very disciplined, responsible, and honest person. I always search for new things to learn.
 				<br />
 				As for my career, I consider myself highly proficient in the programming field.
 				<br />

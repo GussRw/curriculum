@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h2 class="text-2xl pb-2 font-bold text-gray-800">Amazing Projects</h2>
+		<h2 class="text-2xl pb-2 font-bold text-gray-800">Portfolio</h2>
 		<div class="pl-4">
 			<div>
 				<ol class="relative border-l border-gray-200 dark:border-gray-700">

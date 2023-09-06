@@ -6,7 +6,6 @@
 		<p class="pl-3">PHP</p>
 		<p class="pl-3">Dart</p>
 		<p class="pl-3">C#</p>
-		<p class="pl-3">GDScript</p>
 		<p class="pl-3">Bash (Unix shell)</p>
 	</div>
 	<div class="mt-2">
@@ -33,16 +32,12 @@
 		<p class="pl-3">Flutter</p>
 	</div>
 	<div class="mt-2">
-		<b>Game engines</b>
-		<p class="pl-3">Godot</p>
-	</div>
-	<div class="mt-2">
 		<b>Databases</b>
 		<p class="pl-3">MySQL</p>
 		<p class="pl-3">PostgreSQL</p>
 		<p class="pl-3">MongoDB</p>
 	</div>
-	<div class="mt-4" style="page-break-before: always">
+	<div class="mt-4">
 		<b>CSS Frameworks</b>
 		<p class="pl-3">Tailwind</p>
 		<p class="pl-3">Bootstrap</p>
