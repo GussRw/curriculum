@@ -1,7 +1,7 @@
 <template>
-	<h2 class="text-2xl">Skills</h2>
+	<h2 class="text-2xl">{{ $t('sections.skills') }}</h2>
 	<div class="mt-2">
-		<b>Programming Languages</b>
+		<b>{{ $t('sections.programmingLanguages') }}</b>
 		<p class="pl-3">Javascript</p>
 		<p class="pl-3">PHP</p>
 		<p class="pl-3">Dart</p>
@@ -20,19 +20,19 @@
 		<p class="pl-3">React</p>
 	</div>
 	<div class="mt-2">
-		<b>Desktop Development</b>
+		<b>{{ $t('sections.desktopDevelopment') }}</b>
 		<p class="pl-3">Electron</p>
 		<p class="pl-3">.Net</p>
 	</div>
 	<div class="mt-2">
-		<b>Mobile Apps</b>
+		<b>{{ $t('sections.mobileApps') }}</b>
 		<p class="pl-3">Android Native Development</p>
 		<p class="pl-3">Nativescript</p>
 		<p class="pl-3">Ionic</p>
 		<p class="pl-3">Flutter</p>
 	</div>
 	<div class="mt-2">
-		<b>Databases</b>
+		<b>{{ $t('sections.databases') }}</b>
 		<p class="pl-3">MySQL</p>
 		<p class="pl-3">PostgreSQL</p>
 		<p class="pl-3">MongoDB</p>
@@ -43,16 +43,16 @@
 		<p class="pl-3">Bootstrap</p>
 	</div>
 	<div class="mt-2">
-		<b>Version Control</b>
+		<b>{{ $t('sections.versionControl') }}</b>
 		<p class="pl-3">Git</p>
 	</div>
 	<div class="mt-2">
-		<b>Server Admin</b>
+		<b>{{ $t('sections.serverAdmin') }}</b>
 		<p class="pl-3">Linux (Debian, Arch)</p>
 		<p class="pl-3">Windows Server</p>
 	</div>
 	<div class="mt-2">
-		<b>Other Technologies</b>
+		<b>{{ $t('sections.otherTechnologies') }}</b>
 		<p class="pl-3">Github Actions</p>
 		<p class="pl-3">NodeJS</p>
 		<p class="pl-3">Vite</p>

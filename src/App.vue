@@ -1,5 +1,5 @@
 <template>
-	<div id="cv" class="mx-auto bg-gray-100">
+	<div id="cv" class="mx-auto bg-gray-100 w-2/4">
 		<div class="flex flex-wrap  h-full">
 			<div class="w-8/12 pt-2">
 				<div class="px-4">
@@ -11,7 +11,10 @@
 										Peralta Vázquez Gustavo
 									</h1>
 									<h3 class="text-gray-400 text-2xl">
-										Software Engineer
+										{{ $t('title') }} <a
+											id="language-link"
+											class="cursor-pointer"
+											@click="changeLang">({{ locale.toUpperCase() }})</a>
 									</h3>
 								</div>
 							</div>
@@ -51,9 +54,29 @@ import OtherProjects from "@/components/OtherProjects.vue";
 import ContactDetails from "@/components/ContactDetails.vue";
 import LanguagesSection from "@/components/LanguagesSection.vue";
 import HobbiesSection from "@/components/HobbiesSection.vue";
+import {ref} from "vue";
+import {useI18n} from "vue3-i18n";
+
+const locale = ref(localStorage.locale ?? 'en');
+const i18n = useI18n();
+
+const changeLang = () => {
+    locale.value = localStorage.locale = locale.value === 'es' ? 'en' : 'es';
+    i18n.setLocale(locale.value);
+}
 </script>
 <style>
 html {
     font-size: 10px;
+}
+
+@media print {
+    #cv {
+        width: 100% !important;
+    }
+
+    #language-link {
+        display: none;
+    }
 }
 </style>

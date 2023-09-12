@@ -1,16 +1,15 @@
 <template>
 	<div>
-		<h2 class="text-2xl pb-2 font-bold text-gray-800">Personal Statement</h2>
+		<h2 class="text-2xl pb-2 font-bold text-gray-800">{{ $t('personalStatement.title') }}</h2>
 		<div class="pl-4">
 			<p class="text-gray-700">
-				I am a very disciplined, responsible, and honest person. I always search for new things to learn.
+				{{ $t('personalStatement.line1') }}
 				<br />
-				As for my career, I consider myself highly proficient in the programming field.
+				{{ $t('personalStatement.line2') }}
 				<br />
-				I can adapt quickly to any technology, language, framework, or developer environment.
+				{{ $t('personalStatement.line3') }}
 				<br />
-				I have worked with a wide variety of technologies to develop websites, mobile and desktop apps,
-				video games, and hardware integrations.
+				{{ $t('personalStatement.line4') }}
 			</p>
 		</div>
 	</div>

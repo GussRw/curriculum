@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<h2 class="text-2xl mb-2">Contact Details</h2>
+		<h2 class="text-2xl mb-2">{{ $t('sections.contactDetails') }}</h2>
 		<p class="my-1">
 			<a href="mailto:gussrw1@gmail.com" class="mt-2">gussrw1@gmail.com</a>
 			<i class="text-gray-700 float-right">

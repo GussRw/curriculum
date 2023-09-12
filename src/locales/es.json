@@ -1,0 +1,71 @@
+{
+  "title": "Ingeniero de Software",
+  "personalStatement": {
+    "title": "Acerca de mí",
+    "line1": "Soy una persona muy disciplinada, responsable y honesta. Siempre busco aprender cosas nuevas.",
+    "line2": "En cuanto a mi carrera, me considero altamente competente en el campo de la programación.",
+    "line3": "Puedo adaptarme rápidamente a cualquier tecnología, lenguaje, framework o entorno de desarrollo.",
+    "line4": "He trabajado con una amplia variedad de tecnologías para desarrollar sitios web, aplicaciones móviles y de escritorio, videojuegos e integraciones de hardware."
+  },
+  "workExperience": {
+    "title": "Experiencia laboral",
+    "cceo": {
+      "cto": {
+        "position": "Director de Tecnología",
+        "responsibilities": "Revisión de código, estimación de tiempo de desarrollo, estabilidad en la implementación, automatización de procesos, estructura de proyectos, administración de servidores y búsqueda de nuevas tecnologías son algunas de las actividades que he realizado en el tiempo que he ocupado este cargo."
+      },
+      "developer": {
+        "position": "Desarrollador Full Stack",
+        "responsibilities": "Desarrollé plataformas web con el framework Laravel, utilizando PHP y Javascript como lenguajes principales. Estuve involucrado en el proceso de desarrollo desde la etapa de análisis y planificación hasta la implementación del producto generado."
+      }
+    },
+    "myshell": {
+      "ceo": {
+        "position": "CEO y Fundador",
+        "responsibilities": "Generación de nuevas herramientas y complementos que ayudan a los desarrolladores a tener una mejor experiencia al desarrollar sus aplicaciones, siempre manteniendo la filosofía de código abierto."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portafolio",
+    "gussuntu": "Trabajé como administrador de servidores, configurando servidores web, DNS, firewalls, ACL, usuarios y permisos de SSH, lo que me permitió generar una nueva distribución personalizada de Ubuntu WSL con todas las características y requisitos que un desarrollador web necesita para trabajar en su día a día.",
+    "alv": "Paquete de NPM con más de 3,000 instalaciones al año que incluye un componente de Vue que ayuda a enviar datos de un formulario u objetos reactivos desde cualquier componente Vue, así como mostrar rápidamente errores de Laravel-FormRequest en el DOM, deshabilitar automáticamente el botón de envío, agregar un spinner de carga, enviar archivos, etc.",
+    "banIP": "Configuración de servidor Linux y script que analiza archivos del log y verifica el estado de spam con la API de AbuseIPDB; si una IP tiene reportes, se agrega automáticamente a las reglas del firewall para prevenir ataques.",
+    "tpv": "Aplicación desarrollada en C# para integrar la terminal de tarjetas de BBVA en un punto de venta, lo que permite generar ventas, devoluciones, cancelaciones, pagos con puntos y retiros de efectivo.",
+    "prefects": "Una plataforma para el personal de prefectura en el Instituto Tecnológico de Aguascalientes que proporciona monitoreo en tiempo real de la asistencia de los docentes, a través de una plataforma web desarrollada con Laravel y una aplicación móvil con desarrollo nativo en Android."
+  },
+  "education": {
+    "title": "Educación"
+  },
+  "sections": {
+    "contactDetails": "Detalles de contacto",
+    "skills": "Habilidades",
+    "languages": "Idiomas",
+    "hobbies": "Pasatiempos e intereses",
+    "programmingLanguages": "Lenguajes de programación",
+    "databases": "Bases de datos",
+    "versionControl": "Control de versiones",
+    "serverAdmin": "Administración de servidores",
+    "otherTechnologies": "Otras tecnologías",
+    "mobileApps": "Aplicaciones móviles",
+    "desktopDevelopment": "Aplicaciones de escritorio",
+    "native": "Nativo",
+    "spanish": "Español",
+    "english": "Inglés"
+  },
+  "hobbies": {
+    "billiards": "Billar",
+    "coffee": "Café",
+    "carMechanic": "Mecánica de Automóviles",
+    "guitar": "Guitarra",
+    "woodwork": "Carpintería",
+    "localGuide": "Local Guide"
+  },
+  "dates": {
+    "present": "Actual",
+    "may": "Mayo",
+    "jul": "Julio",
+    "aug": "Agosto",
+    "sep": "Septiembre"
+  }
+}

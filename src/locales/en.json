@@ -1,0 +1,71 @@
+{
+  "title": "Software Engineer",
+  "personalStatement": {
+    "title": "About me",
+    "line1": "I am a very disciplined, responsible, and honest person. I always search for new things to learn.",
+    "line2": "As for my career, I consider myself highly proficient in the programming field.",
+    "line3": "I can adapt quickly to any technology, language, framework, or developer environment.",
+    "line4": "I have worked with a wide variety of technologies to develop websites, mobile and desktop apps, video games, and hardware integrations."
+  },
+  "workExperience": {
+    "title": "Work experience",
+    "cceo": {
+      "cto": {
+        "position": "Chief Technology Officer",
+        "responsibilities": "Code review, development time estimation, deploy stability, process automation, project structure, server admin, search for new technologies and integrations are some of the activities that I have carried out in the time that I have been occupying this position."
+      },
+      "developer": {
+        "position": "Full Stack Developer",
+        "responsibilities": "I developed web platforms with Laravel Framework, using PHP and Javascript as main languages. I was involved in the development process from the analysis and planning stage to the deployment of the final products."
+      }
+    },
+    "myshell": {
+      "ceo": {
+        "position": "CEO & Founder",
+        "responsibilities": "Generation of new tools and plugins that help developers get a better and easier experience while developing their applications, always maintaining the open source philosophy."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "gussuntu": "I have worked as a server admin, configuring web servers, DNS, firewalls, ACLs, SSH users and permissions, which allowed me to generate a new customized WSL Ubuntu distribution, with all features and requirements that an web developer needs to work on a day-to-day basis",
+    "alv": "NPM package with 3k+ installs per year with a Vue component that helps submit form data or reactive objects from any Vue component, as well as display Laravel-FormRequest errors in the DOM quickly and easily, automatic disable submit button, append loading spinner, send files, etc.",
+    "banIP": "Linux server setup and script that analyzes log files and check spam status with AbuseIPDB API, if IP has reports it is automatically is added to Firewall rules to prevent more attacks from it.",
+    "tpv": "Application developed in C# to integrate the BBVA card terminal at the point of sale, allowing to generate sales, returns, cancellations, payments with reward points and cash withdrawals.",
+    "prefects": "A platform for prefecture staff within the Instituto Tecnológico de Aguascalientes that provides realtime monitoring of the assistance teachers have, through a web platform developed with Laravel and a mobile application with android native development."
+  },
+  "education": {
+    "title": "Education"
+  },
+  "sections": {
+    "contactDetails": "Contact details",
+    "skills": "Skills",
+    "languages": "Languages",
+    "hobbies": "Hobbies & Interests",
+    "programmingLanguages": "Programming languages",
+    "databases": "Databases",
+    "versionControl": "Version control",
+    "serverAdmin": "Server admin",
+    "otherTechnologies": "Other technologies",
+    "mobileApps": "Mobile apps",
+    "desktopDevelopment": "Desktop development",
+    "native": "Native",
+    "spanish": "Spanish",
+    "english": "English"
+  },
+  "hobbies": {
+    "billiards": "Billiards",
+    "coffee": "Coffee",
+    "carMechanic": "Car Mechanic",
+    "guitar": "Guitar",
+    "woodwork": "Woodwork",
+    "localGuide": "Local Guide"
+  },
+  "dates": {
+    "present": "Present",
+    "may": "May",
+    "jul": "July",
+    "aug": "August",
+    "sep": "September"
+  }
+}
